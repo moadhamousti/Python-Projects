@@ -1,0 +1,64 @@
+{"events": 
+[{"start_date": {"year": "2015"},
+    "media": {"url": "https://www.dreamhost.com/blog/wp-content/uploads/2018/09/elements-web-design-opt-750x498.jpg", 
+        "credit": "dreamhost.com"}, 
+            "text": {"headline": "The Introduction to the web design", 
+                "text": "My first steps of learning how to manipulate images using PHOTOSHOP, and used it to make Web sites using Adobe Dreamweaver."}}, 
+
+
+
+{"start_date": {"year": "2017"},
+    "media": {"url": "https://assets.justinmind.com/wp-content/uploads/2019/10/best-20-web-development-blogs.png", 
+        "credit": "justinmind.com"}, 
+            "text": {"headline": "My Introduction to Web Developpement", 
+                "text": "<p>This was the time I started off with learning HTML and CSS on my own. But it was only for few months and made some simple HTML & CSS Pages .<p>"}}, 
+
+
+
+{"start_date": {"year": "2019", "month": "7"}, 
+    "media": {"url": "https://www.htmlhints.com/image/html/html.png", 
+        "credit": "htmlhints.com"}, 
+            "text": {"headline": "1st project", 
+                "text": "After a lot of failed attempts on using HTML and CSS, I made my 1st simple project and it was a simple site with a landing page and menus and it was an Email newsletter that sends emails regularely to the site subscribers."}}, 
+
+
+
+
+{"start_date": {"year": "2020"}, 
+    "media": {"url": "https://plopdo.com/wp-content/uploads/2021/10/istockphoto-1257967158-612x612-1.jpg", 
+        "credit": "plopdo.com"}, 
+            "text": {"headline": "Random Projects", 
+                "text": " At this point i did some good amount of projects on my own ,But i needed an academic approach to learn All about Web Developpement and Web Design."}},
+
+
+
+{"start_date": {"year": "2022"}, 
+    "media": {"url": "https://ewa.ma/wp-content/uploads/2020/05/logo200.png", 
+        "credit": "ewa.ma"}, 
+            "text": {"headline": "Taking the next step", 
+                "text": " After a bad Two years of pandemic I decided to learn the Web developpement and Design the right way so I joined (eWa) The school of advanced Web to sharpen my skills."}},
+            
+
+
+
+
+{"start_date": {"year": "2022", "month": "11"},
+    "media":{"url":"https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2017/02/PI_2017.02.08_Algorithms_featured.png",
+        "credit":"pewresearch.org"} ,
+            "text": {"headline": "The first steps on learning algorithms", 
+                "text": "Learning Algorithm might be a challenging thing,But the more you dive into it the more you like learning it, Complicated but fun."}},
+
+
+
+{"start_date": {"year": "2023", "month": "1"},
+    "media":{"url":"https://files.realpython.com/media/Introduction-to-Python-3_Watermarked.9d8dfef30c96.jpg",
+        "credit":"realpython.com"} ,
+            "text": {"headline": "Diving into Python Learning", 
+                "text": "After Knowing the basics of Algorithms, learning a programming language will be the next step, considering Python as the go to for most beginners."}}
+            
+
+
+
+]}
+
+
