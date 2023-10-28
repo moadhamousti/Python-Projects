@@ -2,7 +2,6 @@
 
 ### This is a portfolio using streamlit. 🖥️
 
-
 ### Screen Shoots 📷 :
 
 
